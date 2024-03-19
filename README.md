@@ -21,8 +21,7 @@ To dive into these projects, all you need is a Google account. We use Google Col
     - [Supervised Learning](PROJECTS/Supervised_Learning/)
     - [Unsupervised Learning](PROJECTS/Unsupervised_Learning/)
     - [Reinforcement Learning](PROJECTS/Reinforcement_Learning/)
-3. **[Datasets Guide](DATASETS/datasets_guide.md)**: Learn how to access and use datasets directly from popular Python libraries or public sources.
-4. **[Extras](EXTRAS/)**: Enhance your learning with quizzes, assessments, and a list of further readings.
+3. **[Extras](EXTRAS/)**: Enhance your learning with quizzes, assessments, and a list of further readings.
 
 ## Join the Community
 
