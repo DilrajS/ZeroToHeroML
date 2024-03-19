@@ -28,23 +28,23 @@ By following these steps, you'll be ready to dive into the hands-on projects and
 1. **[Introduction to ML/AI](INTRODUCTION_TO_ML_AI.md)**: Start here to understand the basics and the landscape of ML and AI.
 2. **[Projects](PROJECTS/)**: Embark on hands-on projects. Each project has a TODO version for you to complete and a corresponding solution:
 
-   - [Predicting House Prices](PROJECTS/01_Predicting_House_Prices/): Use regression to predict housing prices.
-   - [Iris Flower Species Prediction](PROJECTS/02_Iris_Flower_Species_Prediction/): Learn classification with the famous Iris dataset.
-   - [Overcoming Overfitting](PROJECTS/03_Overcoming_Overfitting/): Explore techniques to prevent overfitting in your models.
-   - [Customer Segmentation](PROJECTS/04_Customer_Segmentation/): Dive into unsupervised learning for market segmentation analysis.
-   - [Deep Learning for Image Recognition](PROJECTS/05_Deep_Learning_for_Image_Recognition/): Implement CNNs for visual recognition tasks.
-   - [Natural Language Processing Sentiment Analysis](PROJECTS/06_Natural_Language_Processing_Sentiment_Analysis/): Analyze sentiments in text data using NLP.
-   - [Introduction to Reinforcement Learning](PROJECTS/07_Introduction_to_Reinforcement_Learning/): Get to grips with the basics of reinforcement learning.
+   - [Predicting House Prices](PROJECTS/01_Predicting_House_Prices.ipynb/): Use regression to predict housing prices.
+   - [Iris Flower Species Prediction](PROJECTS/02_Iris_Flower_Species_Prediction.ipynb/): Learn classification with the famous Iris dataset.
+   - [Overcoming Overfitting](PROJECTS/03_Overcoming_Overfitting.ipynb/): Explore techniques to prevent overfitting in your models.
+   - [Customer Segmentation](PROJECTS/04_Customer_Segmentation.ipynb/): Dive into unsupervised learning for market segmentation analysis.
+   - [Deep Learning for Image Recognition](PROJECTS/05_Deep_Learning_for_Image_Recognition.ipynb/): Implement CNNs for visual recognition tasks.
+   - [Natural Language Processing Sentiment Analysis](PROJECTS/06_Natural_Language_Processing_Sentiment_Analysis.ipynb/): Analyze sentiments in text data using NLP.
+   - [Introduction to Reinforcement Learning](PROJECTS/07_Introduction_to_Reinforcement_Learning.ipynb/): Get to grips with the basics of reinforcement learning.
 
 3. **[Solutions](SOLUTIONS/)**: Compare your solutions to the provided answers after completing the projects:
 
-   - [Predicting House Prices Solution](SOLUTIONS/01_Predicting_House_Prices/)
-   - [Iris Flower Species Prediction Solution](SOLUTIONS/02_Iris_Flower_Species_Prediction/)
-   - [Overcoming Overfitting Solution](SOLUTIONS/03_Overcoming_Overfitting/)
-   - [Customer Segmentation Solution](SOLUTIONS/04_Customer_Segmentation/)
-   - [Deep Learning for Image Recognition Solution](SOLUTIONS/05_Deep_Learning_for_Image_Recognition/)
-   - [Natural Language Processing Sentiment Analysis Solution](SOLUTIONS/06_Natural_Language_Processing_Sentiment_Analysis/)
-   - [Introduction to Reinforcement Learning Solution](SOLUTIONS/07_Introduction_to_Reinforcement_Learning/)
+   - [Predicting House Prices Solution](SOLUTIONS/01_Predicting_House_Prices_Solution.ipynb/)
+   - [Iris Flower Species Prediction Solution](SOLUTIONS/02_Iris_Flower_Species_Prediction_Solution.ipynb/)
+   - [Overcoming Overfitting Solution](SOLUTIONS/03_Overcoming_Overfitting_Solution.ipynb/)
+   - [Customer Segmentation Solution](SOLUTIONS/04_Customer_Segmentation_Solution.ipynb/)
+   - [Deep Learning for Image Recognition Solution](SOLUTIONS/05_Deep_Learning_for_Image_Recognition_Solution.ipynb/)
+   - [Natural Language Processing Sentiment Analysis Solution](SOLUTIONS/06_Natural_Language_Processing_Sentiment_Analysis_Solution.ipynb/)
+   - [Introduction to Reinforcement Learning Solution](SOLUTIONS/07_Introduction_to_Reinforcement_Learning_Solution.ipynb/)
 
 4. **[Datasets](DATASETS/)**: Find the datasets used in our projects, along with guides on how to access and work with them.
 
