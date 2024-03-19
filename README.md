@@ -17,11 +17,16 @@ Everything you need to begin is a Google account. Our projects utilize Google Co
 ## Table of Contents
 
 1. **[Introduction to ML/AI](INTRODUCTION_TO_ML_AI.md)**: Your starting point to grasp the basics and understand the landscape of ML and AI.
-2. **[Projects](PROJECTS/)**: Dive into hands-on projects, organized to build your expertise progressively:
-   - [Foundational Concepts](PROJECTS/01_Foundational_Concepts/): Get to grips with regression, classification, and the core algorithms of ML.
-   - [Intermediate Concepts](PROJECTS/02_Intermediate_Concepts/): Tackle overfitting, explore clustering, and learn about ensemble methods.
-   - [Advanced Concepts](PROJECTS/03_Advanced_Concepts/): Advance to deep learning, NLP, and reinforcement learning projects.
-3. **[Extras](EXTRAS/)**: Further your learning with quizzes, assessments, and additional resources.
+2. **[Projects](PROJECTS/)**: Embark on hands-on projects, each with a TODO version for you to complete:
+   - [Predicting House Prices](PROJECTS/01_Predicting_House_Prices_TODO_Version.ipynb): Start with simple regression to predict housing prices.
+   - [Image Classification with CNNs](PROJECTS/02_Image_Classification_TODO_Version.ipynb): Dive into convolutional neural networks to recognize visual patterns.
+   - [Natural Language Processing](PROJECTS/03_Natural_Language_Processing_TODO_Version.ipynb): Process and analyze text data using NLP techniques.
+3. **[Solutions](SOLUTIONS/)**: After attempting the projects, compare your work with the solutions:
+   - [Predicting House Prices Solution](SOLUTIONS/01_Predicting_House_Prices_Solution.ipynb)
+   - [Image Classification with CNNs Solution](SOLUTIONS/02_Image_Classification_Solution.ipynb)
+   - [Natural Language Processing Solution](SOLUTIONS/03_Natural_Language_Processing_Solution.ipynb)
+4. **[Datasets](DATASETS/)**: Explore datasets used in the projects and learn how to load and manipulate them.
+5. **[Extras](EXTRAS/)**: Further your learning with quizzes, assessments, and additional resources.
 
 ## Join the Community
 
