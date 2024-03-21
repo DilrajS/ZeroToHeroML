@@ -1,4 +1,5 @@
 # ZeroToHeroML: From Novice to Expert in Machine Learning
+
 ![ZeroToHeroML Banner](images/banner_home.gif)
 
 Welcome to ZeroToHeroML, a comprehensive guide for those eager to master machine learning (ML) and artificial intelligence (AI). Designed with beginners and intermediates in mind, this project offers a structured journey through hands-on projects in Google Colab, covering fundamental concepts to advanced applications in the world of ML/AI.
