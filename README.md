@@ -49,7 +49,7 @@ By following these steps, you'll be ready to dive into the hands-on projects and
 
 4. **[Datasets](DATASETS/)**: Find the datasets used in our projects, along with guides on how to access and work with them.
 
-5. **[Extras](EXTRAS/)**: Supplement your learning with additional quizzes, assessments, and resources to further enhance your understanding of ML/AI.
+5. **[Extras](EXTRAS/)**: Supplement your learning with further reading and resources to enhance your understanding of ML/AI.
 
 ## Join the Community
 
