@@ -1,5 +1,7 @@
 ## Your Learning Path in ML/AI
 
+![ZeroToHeroML Banner](images/banner_home.gif)
+
 Embark on your exciting journey with machine learning (ML) and artificial intelligence (AI) through this structured path designed to build your knowledge and skills step by step. Here's a comprehensive overview of what you'll encounter:
 
 ### Foundational Concepts: The Building Blocks of ML/AI
